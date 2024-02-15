@@ -4,7 +4,7 @@ una buena receta de tortilla de patatas
 ##Ingredientes:
 - patatas
 - huevos
-- cebolla
+- NO cebolla
 
 ## Preparación:
 - freir patatas
