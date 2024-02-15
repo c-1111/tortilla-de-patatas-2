@@ -3,10 +3,10 @@ una buena receta de tortilla de patatas
 
 ##Ingredientes:
 - patatas
-- huevos
+- harina de garbanzos en vez de huevos
 - NO cebolla
 
 ## Preparación:
 - freir patatas
 - echar cebolla
-- batir huevos
+- mezclar la harina con agua
